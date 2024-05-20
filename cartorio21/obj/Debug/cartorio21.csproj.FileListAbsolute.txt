@@ -1,0 +1,11 @@
+C:\DEV\cartorio21\cartorio21\bin\Debug\cartorio21.exe.config
+C:\DEV\cartorio21\cartorio21\bin\Debug\cartorio21.exe
+C:\DEV\cartorio21\cartorio21\bin\Debug\cartorio21.pdb
+C:\DEV\cartorio21\cartorio21\obj\Debug\cartorio21.csproj.AssemblyReference.cache
+C:\DEV\cartorio21\cartorio21\obj\Debug\cartorio21.Properties.Resources.resources
+C:\DEV\cartorio21\cartorio21\obj\Debug\cartorio21.csproj.GenerateResource.cache
+C:\DEV\cartorio21\cartorio21\obj\Debug\cartorio21.csproj.CoreCompileInputs.cache
+C:\DEV\cartorio21\cartorio21\obj\Debug\cartorio21.exe
+C:\DEV\cartorio21\cartorio21\obj\Debug\cartorio21.pdb
+C:\DEV\cartorio21\cartorio21\obj\Debug\cartorio21.FormImportaTitulo.resources
+C:\DEV\cartorio21\cartorio21\obj\Debug\cartorio21.FormTitulo.resources
