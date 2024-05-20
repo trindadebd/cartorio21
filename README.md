@@ -40,6 +40,6 @@ O Cartorio21 faz a importação de arquivos XML para o sistema, que por sua vez 
 ## Contato
 
 Para mais informações, entre em contato:
-  Nome: Brenda Trindade Carbas
-  Email: brenda.trindade001@gmail.com
-  LinkedIn: https://www.linkedin.com/in/brenda-trindade-50361a176/
+- Nome: Brenda Trindade Carbas
+- Email: brenda.trindade001@gmail.com
+- LinkedIn: https://www.linkedin.com/in/brenda-trindade-50361a176/
